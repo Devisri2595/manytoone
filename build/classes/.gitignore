@@ -1,0 +1,4 @@
+/customer.hbm.xml
+/hibernate.cfg.xml
+/manytoone/
+/vendor.hbm.xml
